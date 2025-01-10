@@ -1,7 +1,5 @@
 # Alpointernet's Legit Macro
 
-A Minecraft macro that is written on AutoHotkey.
-
 ![Screenshot 2025-01-10 221606-Photoroom](https://github.com/user-attachments/assets/83fbca11-48c7-4594-a4c0-b34713657e7b)
 
 # What Makes This Macro Special?
