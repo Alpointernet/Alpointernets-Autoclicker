@@ -46,7 +46,7 @@ There are many settings, and here’s what they all do:
 
 • **Hold Click Mode**: This setting is useful for bridging. When you start the macro with right-click, you can hold the right mouse button to continuously place blocks.
 
-• GUI/Close Hotkey**: Its like how the name says. It lets you change the keys to make the gui open/close. Default keybinds are `Alt + C` and `Alt + V`.
+• **GUI/Close Hotkey**: Its like how the name says. It lets you change the keys to make the gui open/close. Default keybinds are `Alt + C` and `Alt + V`.
 
 #### Also just a little reminder, when you change something on the settings, a new file called `settings.ini` is created. It stores your settings and when you open the macro again your settings will just stay as it was.
 
