@@ -26,15 +26,15 @@ There are many settings, and here’s what they all do:
 
 ### Click-Specific Settings:
 
-• **Number of clicks to simulate**: This controls how many clicks the macro will simulate after you click (default is 2, meaning it adds 2 clicks for every normal click you make).
+• **Number of clicks to simulate**: This controls how many clicks the macro will simulate after you click (default is `2`, meaning it adds `2` clicks for every normal click you make).
 
-• **Delay time between simulated clicks**: This sets how long the delay will be between the simulated clicks (default is 50ms).
+• **Delay time between simulated clicks**: This sets how long the delay will be between the simulated clicks (default is `50ms`).
 
-• **Double-click detection time**: This is how fast you need to click (3 clicks within 200ms by default) to trigger the macro. You can adjust this time to change how quickly the macro activates.
+• **Double-click detection time**: This is how fast you need to click (3 clicks within `200ms` by default) to trigger the macro. You can adjust this time to change how quickly the macro activates.
 
-• **Inactivity reset time**: If you don’t click for the specified time (default is 1000ms), the macro stops working. You’ll need to trigger the macro again to make it simulate clicks.
+• **Inactivity reset time**: If you don’t click for the specified time (default is `1000ms`), the macro stops working. You’ll need to trigger the macro again to make it simulate clicks.
 
-• **Number of clicks to trigger double-click**: This sets how many clicks you need to make to trigger the macro (default is 3 clicks within 200ms).
+• **Number of clicks to trigger double-click**: This sets how many clicks you need to make to trigger the macro (default is `3` clicks within `200ms`).
 
 ### Tickbox Settings:
 
@@ -48,12 +48,14 @@ There are many settings, and here’s what they all do:
 
 • **Hold Click Mode**: This setting is useful for bridging. When you start the macro with right-click, you can hold the right mouse button to continuously place blocks.
 
-• GUI/Close Hotkey**: Its like how the name says. It lets you change the keys to make the gui open/close. Default keybinds are Alt + C and Alt + V.
+• GUI/Close Hotkey**: Its like how the name says. It lets you change the keys to make the gui open/close. Default keybinds are `Alt + C` and `Alt + V`.
+
+#### Also just a little reminder, when you change something on the settings, a new file called `settings.ini` is created. It stores your settings and when you open the macro again your settings will just stay as it was.
 
 # How to Download the Macro? 
 
-• There are 2 variants of the macro. One is on the .ahk format while the other one is on the .exe format.
+• There are 2 variants of the macro. One is on the `.ahk` format while the other one is on the `.exe` format.
 
-• If you have AutoHotkey installed, you can use the .ahk file (Or preferably the .exe file as well). If you don't you can use the .exe file since AutoHotkey already comes injected inside it. (If youre gonna change stuff on the code, you should use the .ahk variant)
+• If you have AutoHotkey installed, you can use the `.ahk` file (Or preferably the `.exe` file as well). If you don't you can use the `.exe` file since AutoHotkey already comes injected inside it. (If youre gonna change stuff on the code, you should use the `.ahk` variant)
 
 You can download both from the [Releases](https://github.com/Alpointernet/Alpointernet-s-Legit-Macro/releases) page.
