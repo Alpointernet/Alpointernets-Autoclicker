@@ -56,4 +56,4 @@ There are many settings, and here’s what they all do:
 
 • If you have AutoHotkey installed, you can use the `.ahk` file (Or preferably the `.exe` file as well). If you don't you can use the `.exe` file since AutoHotkey already comes injected inside it. (If you're gonna change stuff on the code, you need to use the `.ahk` variant)
 
-You can download both from the [Releases](https://github.com/Alpointernet/Alpointernet-s-Legit-Macro/releases) page.
+You can download both from the [Releases](https://github.com/Alpointernet/Alpointernets-Legit-Macro/releases) page.
