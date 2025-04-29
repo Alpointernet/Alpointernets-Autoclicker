@@ -4,7 +4,7 @@
 
 # What Makes This Autoclicker Special?
 
-What makes this macro unique is that you won’t even notice it’s running while you’re playing. It works very differently from other macros you’ve seen before.
+What makes this auto clicker unique is that you won’t even notice it’s running while you’re playing. It works very differently from other macros you’ve seen before.
 
 # How It Works (With Default Settings)
 
