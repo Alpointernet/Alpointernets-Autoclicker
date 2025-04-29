@@ -2,7 +2,7 @@
 
 ![Screenshot 2025-01-10 221606-Photoroom](https://github.com/user-attachments/assets/83fbca11-48c7-4594-a4c0-b34713657e7b)
 
-# What Makes This Macro Special?
+# What Makes This Autoclicker Special?
 
 What makes this macro unique is that you won’t even notice it’s running while you’re playing. It works very differently from other macros you’ve seen before.
 
