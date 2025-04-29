@@ -42,7 +42,7 @@ There are many settings, and here’s what they all do:
 
 • **Mimic Realistic Click**: This option makes each simulated click have a different delay time, making the clicks seem more natural. You can adjust the range of delays.
 
-• **No Delay Mode**: This option "removes" the delay between clicks, but there is still a small delay due to AutoHotkey limitations.
+• **No Delay Mode**: This option "removes" the delay between clicks, but there is still a small delay due to AutoHotkey limitations (the "small" delay is very noticeable when you set your number of clicks too high)
 
 • **Hold Click Mode**: This setting is useful for bridging. When you start the macro with right-click, you can hold the right mouse button to continuously place blocks.
 
